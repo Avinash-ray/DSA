@@ -8,10 +8,10 @@ public class Main {
 
   int rem= num%2;
   if(rem == 1){
-    System.out.println("odd");
+    System.out.println(num+ " is odd");
   }
   else{
-    System.out.println("even");
+    System.out.println(num+ " is even");
   }
     
   }
