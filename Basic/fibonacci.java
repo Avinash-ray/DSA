@@ -35,7 +35,7 @@ public class Main {
     
     while(count <= n){
       int sum= a+b;
-      System.out.println(sum);
+      System.out.println(a);
       a= b;
       b= sum;
       count++;
