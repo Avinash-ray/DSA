@@ -29,7 +29,7 @@ public class Main {
             int nsp= n-nst;
 
             for(int i=1; i<= nsp; i++){
-                System.out.print(" \t");
+                System.out.print("\t");
             }
             
             for(int i=1; i<= nst; i++){
