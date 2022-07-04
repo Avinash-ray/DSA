@@ -87,6 +87,7 @@ public class Main {
       }
       else{
         System.out.println(a[mid]);
+        return;
       }
     }
     System.out.println(ceil);
